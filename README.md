@@ -11,6 +11,9 @@ Save the website to see the results.
 Hints: You need to use the Heading tags (like <h1>, <h2>). Similarly, use paragraph tags (<p>) to create paragraphs and <ol> tags for ordered lists. 
 
 Resources
+
 Heading Tags(https://www.w3schools.com/html/html_headings.asp)
+
 Paragraph Tags(https://www.w3schools.com/html/html_paragraphs.asp)
+
 Ordered Lists(https://www.w3schools.com/html/html_lists_ordered.asp)
